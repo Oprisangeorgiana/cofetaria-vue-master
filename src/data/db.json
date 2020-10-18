@@ -1,0 +1,1206 @@
+{
+  "categories": [
+    {
+      "id": 2,
+      "name": "Bomboane"
+    },
+    {
+      "id": 3,
+      "name": "Candy Bar"
+    },
+    {
+      "id": 4,
+      "name": "Cupcake"
+    },
+    {
+      "id": 5,
+      "name": "Macarons"
+    },
+    {
+      "id": 6,
+      "name": "Inghetata"
+    },
+    {
+      "id": 7,
+      "name": "Torturi"
+    },
+    {
+      "id": 8,
+      "name": "Prajituri"
+    }
+  ],
+  "products": [
+    {
+      "image": "/img/tortcafea.jpg",
+      "name": "Tort cafea",
+      "price": 75,
+      "categoriesList": [
+        7
+      ],
+      "id": 1,
+      "details": "/KG",
+      "ingredients": [
+        12
+      ]
+    },
+    {
+      "image": "/img/tortciocolata.jpg",
+      "name": "Tort ciocolata",
+      "price": 65,
+      "categoriesList": [
+        7
+      ],
+      "id": 2,
+      "details": "/KG",
+      "ingredients": [
+        2,
+        5,
+        10
+      ]
+    },
+    {
+      "image": "/img/tortcurcubeu.jpg",
+      "name": "Tort curcubeu",
+      "price": 80,
+      "categoriesList": [
+        7
+      ],
+      "id": 3,
+      "details": "/KG",
+      "ingredients": [
+        8,
+        10
+      ]
+    },
+    {
+      "image": "/img/tortfructe.jpg",
+      "name": "Tort fructe",
+      "price": 75,
+      "categoriesList": [
+        7
+      ],
+      "id": 4,
+      "details": "/KG",
+      "ingredients": [
+        10
+      ]
+    },
+    {
+      "image": "/img/tortgarfield.jpg",
+      "name": "Tort garfield",
+      "price": 80,
+      "categoriesList": [
+        7
+      ],
+      "id": 5,
+      "details": "/KG",
+      "ingredients": [
+        1,
+        8,
+        6,
+        2
+      ]
+    },
+    {
+      "image": "/img/tortmickey.jpg",
+      "name": "Tort Mickey Mouse",
+      "price": 80,
+      "categoriesList": [
+        7
+      ],
+      "id": 6,
+      "details": "/KG",
+      "ingredients": [
+        1,
+        8,
+        6,
+        2
+      ]
+    },
+    {
+      "image": "/img/tortminnie.jpg",
+      "name": "Tort Minnie Mouse",
+      "price": 80,
+      "categoriesList": [
+        7
+      ],
+      "id": 7,
+      "details": "/KG",
+      "ingredients": [
+        8,
+        6,
+        2,
+        10
+      ]
+    },
+    {
+      "image": "/img/tortmousse.jpg",
+      "name": "Tort mousse",
+      "price": 75,
+      "categoriesList": [
+        7
+      ],
+      "id": 62,
+      "details": "/KG",
+      "ingredients": [
+        1,
+        5,
+        2
+      ]
+    },
+    {
+      "image": "/img/tortpanda.jpg",
+      "name": "Tort panda",
+      "price": 80,
+      "categoriesList": [
+        7
+      ],
+      "id": 8,
+      "details": "/KG",
+      "ingredients": [
+        1,
+        6,
+        2,
+        8
+      ]
+    },
+    {
+      "image": "/img/tortpost.jpg",
+      "name": "Tort post",
+      "price": 65,
+      "categoriesList": [
+        7
+      ],
+      "id": 9,
+      "details": "/KG",
+      "ingredients": [
+        3,
+        10
+      ]
+    },
+    {
+      "image": "/img/torttiramisu.jpg",
+      "name": "Tort tiramisu",
+      "price": 65,
+      "categoriesList": [
+        7
+      ],
+      "id": 10,
+      "details": "/KG",
+      "ingredients": [
+        12,
+        1,
+        5
+      ]
+    },
+    {
+      "image": "/img/bomboanearahide.jpg",
+      "name": "Bomboane arahide",
+      "price": 12,
+      "categoriesList": [
+        2
+      ],
+      "id": 11,
+      "details": "/KG",
+      "ingredients": [
+        11,
+        2
+      ]
+    },
+    {
+      "image": "/img/bomboanecacao.jpg",
+      "name": "Bomboane cacao",
+      "price": 12,
+      "categoriesList": [
+        2
+      ],
+      "id": 12,
+      "details": "/KG",
+      "ingredients": [
+        11,
+        5
+      ]
+    },
+    {
+      "image": "/img/bomboanecioc.jpg",
+      "name": "Bomboane ciocolata",
+      "price": 12,
+      "categoriesList": [
+        2
+      ],
+      "id": 63,
+      "details": "/KG",
+      "ingredients": [
+        2,
+        4
+      ]
+    },
+    {
+      "image": "/img/bomboanemartipan.jpg",
+      "name": "Bomboane martipan",
+      "price": 15,
+      "categoriesList": [
+        2
+      ],
+      "id": 13,
+      "details": "/KG",
+      "ingredients": [
+        8,
+        6
+      ]
+    },
+    {
+      "image": "/img/bomboanerafa.jpg",
+      "name": "Bomboane Rafaelo",
+      "price": 12,
+      "categoriesList": [
+        2
+      ],
+      "id": 14,
+      "details": "/KG",
+      "ingredients": [
+        1,
+        6
+      ]
+    },
+    {
+      "image": "/img/bomboanetot.jpg",
+      "name": "Bomboane Toffifee",
+      "price": 13,
+      "categoriesList": [
+        2
+      ],
+      "id": 15,
+      "details": "/KG",
+      "ingredients": [
+        5,
+        11,
+        2
+      ]
+    },
+    {
+      "image": "/img/bomboanediverse.jpg",
+      "name": "Bomboane diverse",
+      "price": 15,
+      "categoriesList": [
+        2
+      ],
+      "id": 16,
+      "details": "/KG",
+      "ingredients": [
+        8,
+        6,
+        2,
+        5,
+        11,
+        12,
+        10,
+        1
+      ]
+    },
+    {
+      "image": "/img/inghbubble.jpg",
+      "name": "Inghetata Bubble Gum",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 17,
+      "details": "/CUPA",
+      "ingredients": [
+        4,
+        1
+      ]
+    },
+    {
+      "image": "/img/inghcapsuni.jpg",
+      "name": "Inghetata capsuni",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 18,
+      "details": "/CUPA",
+      "ingredients": [
+        10,
+        1
+      ]
+    },
+    {
+      "image": "/img/inghciocolata.jpg",
+      "name": "Inghetata ciocolata",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 19,
+      "details": "/CUPA",
+      "ingredients": [
+        1,
+        2
+      ]
+    },
+    {
+      "image": "/img/inghfistic.jpg",
+      "name": "Inghetata fistic",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 20,
+      "details": "/CUPA",
+      "ingredients": [
+        1,
+        11
+      ]
+    },
+    {
+      "image": "/img/inghfructe.jpg",
+      "name": "Inghetata fructe de padure",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 21,
+      "details": "/CUPA",
+      "ingredients": [
+        1,
+        10
+      ]
+    },
+    {
+      "image": "/img/inghlamaie.jpg",
+      "name": "Inghetata lamaie",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 22,
+      "details": "/CUPA",
+      "ingredients": [
+        1,
+        10
+      ]
+    },
+    {
+      "image": "/img/inghmango.jpg",
+      "name": "Inghetata mango",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 23,
+      "details": "/CUPA",
+      "ingredients": [
+        1,
+        10
+      ]
+    },
+    {
+      "image": "/img/inghpepene.jpg",
+      "name": "Inghetata pepene galben",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 24,
+      "details": "/CUPA",
+      "ingredients": [
+        1,
+        10
+      ]
+    },
+    {
+      "image": "/img/inghvanilie.jpg",
+      "name": "Inghetata vanilie",
+      "price": 35,
+      "categoriesList": [
+        6
+      ],
+      "id": 25,
+      "details": "/CUPA",
+      "ingredients": [
+        1,
+        6
+      ]
+    },
+    {
+      "image": "/img/mcvanilie.jpg",
+      "name": "Macarons vanilie",
+      "price": 5,
+      "categoriesList": [
+        5
+      ],
+      "id": 26,
+      "details": "",
+      "ingredients": [
+        1,
+        6
+      ]
+    },
+    {
+      "image": "/img/mccafea.jpg",
+      "name": "Macarons cafea",
+      "price": 6,
+      "categoriesList": [
+        5
+      ],
+      "id": 27,
+      "details": "",
+      "ingredients": [
+        12,
+        6
+      ]
+    },
+    {
+      "image": "/img/mccapsuni.jpg",
+      "name": "Macarons capsuni",
+      "price": 6,
+      "categoriesList": [
+        5
+      ],
+      "id": 28,
+      "details": "",
+      "ingredients": [
+        1,
+        10
+      ]
+    },
+    {
+      "image": "/img/mcciocolata.jpg",
+      "name": "Macarons ciocolata",
+      "price": 5,
+      "categoriesList": [
+        5
+      ],
+      "id": 29,
+      "details": "",
+      "ingredients": [
+        1,
+        2
+      ]
+    },
+    {
+      "image": "/img/mccocos.jpg",
+      "name": "Macarons cocos",
+      "price": 7,
+      "categoriesList": [
+        5
+      ],
+      "id": 30,
+      "details": "",
+      "ingredients": [
+        1,
+        9
+      ]
+    },
+    {
+      "image": "/img/mcprotocale.jpg",
+      "name": "Macarons portocale",
+      "price": 7,
+      "categoriesList": [
+        5
+      ],
+      "id": 31,
+      "details": "",
+      "ingredients": [
+        1,
+        10
+      ]
+    },
+    {
+      "image": "/img/mctort.jpg",
+      "name": "Macarons tort",
+      "price": 90,
+      "categoriesList": [
+        5
+      ],
+      "id": 32,
+      "details": "",
+      "ingredients": [
+        1,
+        8,
+        6,
+        5,
+        2
+      ]
+    },
+    {
+      "image": "/img/mcunicorn.jpg",
+      "name": "Macarons unicorn",
+      "price": 7,
+      "categoriesList": [
+        5
+      ],
+      "id": 33,
+      "details": "",
+      "ingredients": [
+        1,
+        4
+      ]
+    },
+    {
+      "image": "/img/mczmeura.jpg",
+      "name": "Macarons zmeura",
+      "price": 6,
+      "categoriesList": [
+        5
+      ],
+      "id": 34,
+      "details": "",
+      "ingredients": [
+        1,
+        10
+      ]
+    },
+    {
+      "image": "/img/mccutie.jpg",
+      "name": "Macarons cutie 24",
+      "price": 55,
+      "categoriesList": [
+        5
+      ],
+      "id": 35,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "image": "/img/savarina.jpg",
+      "name": "Savarina",
+      "price": 5.5,
+      "categoriesList": [
+        8
+      ],
+      "id": 36,
+      "details": "",
+      "ingredients": [
+        1,
+        7
+      ]
+    },
+    {
+      "image": "/img/amandina.jpg",
+      "name": "Amandina",
+      "price": 5.5,
+      "categoriesList": [
+        8
+      ],
+      "id": 37,
+      "details": "",
+      "ingredients": [
+        1,
+        2
+      ]
+    },
+    {
+      "image": "/img/eclerness.jpg",
+      "name": "Ecler ness",
+      "price": 5.5,
+      "categoriesList": [
+        8
+      ],
+      "id": 38,
+      "details": "",
+      "ingredients": [
+        1,
+        5,
+        12
+      ]
+    },
+    {
+      "image": "/img/eclerciocolata.jpg",
+      "name": "Ecler ciocolata",
+      "price": 5.5,
+      "categoriesList": [
+        8
+      ],
+      "id": 39,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "image": "/img/eclervanilie.jpg",
+      "name": "Ecler vanilie",
+      "price": 5.5,
+      "categoriesList": [
+        8
+      ],
+      "id": 40,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        6
+      ]
+    },
+    {
+      "image": "/img/gianduja.jpg",
+      "name": "Gianduja",
+      "price": 5.5,
+      "categoriesList": [
+        8
+      ],
+      "id": 41,
+      "details": "",
+      "ingredients": [
+        1,
+        8,
+        2
+      ]
+    },
+    {
+      "image": "/img/caraiman.jpg",
+      "name": "Caraiman",
+      "price": 5.5,
+      "categoriesList": [
+        8
+      ],
+      "id": 42,
+      "details": "",
+      "ingredients": [
+        1,
+        8,
+        2
+      ]
+    },
+    {
+      "image": "/img/cheesecake.jpg",
+      "name": "Cheesecake",
+      "price": 5.5,
+      "categoriesList": [
+        8
+      ],
+      "id": 43,
+      "details": "",
+      "ingredients": [
+        1,
+        14,
+        10
+      ]
+    },
+    {
+      "image": "/img/cb1.jpg",
+      "name": "Candy Bar varianta 1",
+      "price": 155,
+      "categoriesList": [
+        3
+      ],
+      "id": 44,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cb2.jpg",
+      "name": "Candy Bar varianta 2",
+      "price": 145,
+      "categoriesList": [
+        3
+      ],
+      "id": 45,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cb3.jpg",
+      "name": "Candy Bar varianta 3",
+      "price": 155,
+      "categoriesList": [
+        3
+      ],
+      "id": 46,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cb4.jpg",
+      "name": "Candy Bar varianta 4",
+      "price": 120,
+      "categoriesList": [
+        3
+      ],
+      "id": 47,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cb5.jpg",
+      "name": "Candy Bar varianta 5",
+      "price": 135,
+      "categoriesList": [
+        3
+      ],
+      "id": 48,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cb6.jpg",
+      "name": "Candy Bar varianta 6",
+      "price": 130,
+      "categoriesList": [
+        3
+      ],
+      "id": 49,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cb7.jpg",
+      "name": "Candy Bar varianta 7",
+      "price": 130,
+      "categoriesList": [
+        3
+      ],
+      "id": 50,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cb8.jpg",
+      "name": "Candy Bar varianta 8",
+      "price": 450,
+      "categoriesList": [
+        3
+      ],
+      "id": 51,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cb9.jpg",
+      "name": "Candy Bar varianta 9",
+      "price": 200,
+      "categoriesList": [
+        3
+      ],
+      "id": 52,
+      "details": " (pret de start)",
+      "ingredients": [
+        4
+      ]
+    },
+    {
+      "image": "/img/cupcraciun.jpg",
+      "name": "Cupcake Craciun",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 53,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "image": "/img/cupferma.jpg",
+      "name": "Cupcake ferma",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 54,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4,
+        8
+      ]
+    },
+    {
+      "image": "/img/cupflori.jpg",
+      "name": "Cupcake flori",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 55,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4,
+        8
+      ]
+    },
+    {
+      "image": "/img/cupflori2.jpg",
+      "name": "Cupcake flori vara",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 56,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4,
+        8
+      ]
+    },
+    {
+      "image": "/img/cupfluturi.jpg",
+      "name": "Cupcake fluturi",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 57,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4
+      ]
+    },
+    {
+      "image": "/img/cupjungla.jpg",
+      "name": "Cupcake jungla",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 58,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4,
+        8
+      ]
+    },
+    {
+      "image": "/img/cupminioni.jpg",
+      "name": "Cupcake Minioni",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 59,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4,
+        8
+      ]
+    },
+    {
+      "image": "/img/cuppanda.jpg",
+      "name": "Cupcake panda",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 60,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4,
+        8
+      ]
+    },
+    {
+      "image": "/img/cupunicorni.jpg",
+      "name": "Cupcake unicorni",
+      "price": 6.5,
+      "categoriesList": [
+        4
+      ],
+      "id": 61,
+      "details": "",
+      "ingredients": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ],
+  "ingredients": [
+    {
+      "id": 1,
+      "name": "Lapte",
+      "expDate": "01.01.2020"
+    },
+    {
+      "id": 2,
+      "name": "Ciocolată",
+      "expDate": "15.08.2020"
+    },
+    {
+      "id": 3,
+      "name": "Foietaj",
+      "expDate": "15.08.2019"
+    },
+    {
+      "id": 4,
+      "name": "Candy",
+      "expDate": "15.08.2020"
+    },
+    {
+      "id": 5,
+      "name": "Cacao",
+      "expDate": "15.08.2020"
+    },
+    {
+      "id": 6,
+      "name": "Vanilie",
+      "expDate": "16.08.2020"
+    },
+    {
+      "id": 7,
+      "name": "Frișcă",
+      "expDate": "10.08.2019"
+    },
+    {
+      "id": 8,
+      "name": "Marțipan",
+      "expDate": "15.08.2020"
+    },
+    {
+      "id": 9,
+      "name": "Brânză",
+      "expDate": "15.08.2019"
+    },
+    {
+      "id": 10,
+      "name": "Fructe",
+      "expDate": "15.08.2019"
+    },
+    {
+      "id": 11,
+      "name": "Alune"
+    },
+    {
+      "id": 12,
+      "name": "Cafea",
+      "expDate": "01.01.2020"
+    },
+    {
+      "id": 13,
+      "name": "Cocaina",
+      "expDate": "01.01.2020"
+    },
+    {
+      "id": 14,
+      "name": "Zacusca",
+      "expDate": "01.01.2020"
+    },
+    {
+      "name": "Oare asa e si la mine?",
+      "expDate": "Nu mai scrie prostii",
+      "id": 15
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "roleId": 1,
+      "username": "a",
+      "password": "a",
+      "mail": "a@gmail",
+      "fullName": "Alin Rosca",
+      "authFailed": false
+    },
+    {
+      "id": 2,
+      "roleId": 2,
+      "username": "d",
+      "password": "d",
+      "mail": "d@gmail",
+      "fullName": "Dan Trufin",
+      "authFailed": false
+    },
+    {
+      "id": 3,
+      "roleId": 2,
+      "username": "g",
+      "password": "g",
+      "mail": "g@gmail",
+      "fullName": "Georgiana Oprisan",
+      "authFailed": false
+    },
+    {
+      "id": 4,
+      "roleId": 1,
+      "username": "t",
+      "password": "t",
+      "mail": "t@gmail",
+      "fullName": "Anghelita Traian",
+      "authFailed": false
+    },
+    {
+      "roleId": 2,
+      "username": "u",
+      "password": "u",
+      "mail": "u",
+      "fullName": "u",
+      "authFailed": false,
+      "id": 8
+    },
+    {
+      "roleId": 2,
+      "username": "d",
+      "password": "d",
+      "mail": "",
+      "fullName": "Dan Trufin",
+      "authFailed": false,
+      "id": 9
+    },
+    {
+      "roleId": 2,
+      "username": "d",
+      "password": "d",
+      "mail": "aefs",
+      "fullName": "Dan Trufin",
+      "authFailed": false,
+      "id": 10
+    },
+    {
+      "roleId": 2,
+      "username": "dsa",
+      "password": "dsa",
+      "mail": "asdsada",
+      "fullName": "asdasd",
+      "authFailed": false,
+      "id": 11
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "data": "20-07-2019",
+      "finished": true,
+      "orderProducts": [
+        {
+          "product_id": 3,
+          "quantity": 4
+        },
+        {
+          "product_id": 23,
+          "quantity": 6
+        },
+        {
+          "product_id": 2,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "user_id": 2,
+      "data": "25-07-2019",
+      "finished": true,
+      "orderProducts": [
+        {
+          "product_id": 3,
+          "quantity": 4
+        },
+        {
+          "product_id": 23,
+          "quantity": 6
+        },
+        {
+          "product_id": 2,
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "user_id": 1,
+      "data": "30-07-2019",
+      "finished": false,
+      "orderProducts": [
+        {
+          "product_id": 3,
+          "quantity": 4
+        },
+        {
+          "product_id": 23,
+          "quantity": 6
+        },
+        {
+          "product_id": 2,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "role": [
+    {
+      "id": 1,
+      "name": "Administrator",
+      "permissions": [
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
+      "id": 2,
+      "name": "User",
+      "permissions": [
+        1
+      ]
+    }
+  ],
+  "permissions": [
+    {
+      "id": 1,
+      "name": "View"
+    },
+    {
+      "id": 2,
+      "name": "Insert"
+    },
+    {
+      "id": 3,
+      "name": "Update"
+    },
+    {
+      "id": 4,
+      "name": "Delete"
+    }
+  ]
+}
